@@ -1,1 +1,6 @@
-#skelton code
+//skelingtoncode
+#include <stdio.h>
+
+int main(){
+    printf("hi");
+}

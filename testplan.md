@@ -16,7 +16,9 @@
     - displays the maze when m is pressed 
     - correctly displays a message if the user runs into a wall
 # Error message 
-    - Error: invalid input 
+    - Error: Invalid input 
     - Error: Empty maze
-    - Error: invalid maze 
+    - Error: Invalid maze 
+    - Error: Maze does not meet requirements
+    - You have hit a wall
 
