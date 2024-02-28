@@ -17,4 +17,6 @@
     - correctly displays a message if the user runs into a wall
 # Error message 
     - Error: invalid input 
+    - Error: Empty maze
+    - Error: invalid maze 
 
